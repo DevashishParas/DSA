@@ -8,10 +8,12 @@ int main(){
     for(i=1;i<=n;i++){
         for(j=1;j<=i;j++)
     
-        cout<<"* ";
-        cout<<endl;
-
+            cout<<"* ";
+             cout<<endl;
     }
-    return
+       
 
-    https://github.com/DevashishParas/DSA-Self.git
+    
+    return 0;
+
+}
